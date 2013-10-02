@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>07A4D88C-068C-4528-AB2C-752AA2AE760D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pleasant3D</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F11CDC7F-CEAD-4C2E-A765-5DAE569B2B43</key>
+		<string>https://github.com/skillerngames/Pleasant3D_KSG.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>src/Pleasant3D.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F11CDC7F-CEAD-4C2E-A765-5DAE569B2B43</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/skillerngames/Pleasant3D_KSG.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F11CDC7F-CEAD-4C2E-A765-5DAE569B2B43</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F11CDC7F-CEAD-4C2E-A765-5DAE569B2B43</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pleasant3D</string>
+		</dict>
+	</array>
+</dict>
+</plist>
